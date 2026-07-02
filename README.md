@@ -1,37 +1,39 @@
 # rocco
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meu Blog</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+<article> <h2>Meu Hat-Trick Jogando com os Amigos do Meu Irmão ⚽🔥</h2>
 
-  <header>
-    <h1>Meu Blog 📝</h1>
-    <p>Ideias, experiências e descobertas.</p>
-    <button id="btnTema">🌙 Modo escuro</button>
-  </header>
+<p class="data">📅 23 de Junho de 2026</p>
 
-  <main>
-    <article>
-      <h2>Meu primeiro post</h2>
-      <p class="data">📅 Janeiro de 2026</p>
-      <img src="https://picsum.photos/600/300?random=1" alt="Imagem do post">
-      <p>
-        Esse é meu primeiro texto no blog. Aqui vou contar o que aprendi,
-        o que me interessa e o que quero explorar. Todo mundo começa do zero —
-        e esse é o meu começo.
-      </p>
-    </article>
-  </main>
+<img src="https://picsum.photos/600/300?random=17" alt="Jogo de futebol">
 
-  <footer>
-    <p>Feito por mim 🚀</p>
-  </footer>
+<p>
+    Ontem fui jogar futebol com os amigos do meu irmão mais velho.
+    A maioria dos jogadores era adulta, mas também tinham três
+    garotos da minha idade participando da partida.
+</p>
 
-  <script src="script.js"></script>
-</body>
-</html>
+<p>
+    Durante o jogo, eu joguei tanto na linha quanto no gol. Quando
+    estava na linha, consegui fazer uma ótima partida e marquei
+    3 gols, completando um hat-trick.
+</p>
+
+<p>
+    Também joguei como goleiro em alguns momentos. Fiz várias
+    defesas e consegui ajudar meu time, mesmo tomando alguns gols.
+    Foi uma experiência diferente e divertida poder jogar em duas
+    posições.
+</p>
+
+<p>
+    No final, nosso time acabou perdendo o jogo. Mesmo assim,
+    fiquei muito feliz porque me esforcei bastante, marquei três
+    gols e ainda consegui fazer algumas boas defesas no gol.
+</p>
+
+<p>
+    Foi um dia muito divertido e uma experiência que vou lembrar
+    por bastante tempo. Espero continuar melhorando e ter mais
+    partidas assim no futuro.
+</p>
+
+</article>
